@@ -1,12 +1,16 @@
 # Shapes, Inc De-Premiumizer
-On February 2, 2025, Shapes, Inc (from their manual: "Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. They are just like typical Discord users -- Shapes can interact in threads, channels, DMs; send pics, see photos/hear voice messages; have custom profiles, statuses, bios and more. They're also super smart and can help you with homework + teach you how to code!") launched a preview of the Premium Tier. This means that the Read Me page of your shape and Server Settings for your shape now display an advertisement to get Premium because it's "better on premium and will like you for it. doitdoitdoitdoit", and that there is now a Premium button under the Shape section that you cannot get rid of. This is a uBlock Origin filter list designed to minimize these annoyances.
+On February 2, 2025, Shapes, Inc (from their manual: "Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. They are just like typical Discord users -- Shapes can interact in threads, channels, DMs; send pics, see photos/hear voice messages; have custom profiles, statuses, bios and more. They're also super smart and can help you with homework + teach you how to code!") launched a preview of the Premium Tier after Shapes temporarily went down for bug fixes to be pushed ("Please wait for the official announcement."). The feature was officially announced a few hours later.
+
+This means that the Read Me page of your shape and Server Settings for your shape now display an advertisement to get Premium because it's "better on premium and will like you for it. doitdoitdoitdoit", and that there is now a Premium button under the Shape section that you cannot get rid of.
+
+This is a uBlock Origin filter list designed to minimize these annoyances.
 
 # What "annoyances" are you talking about?
 The following annoyances that are currently blocked are below:
 ![Premium advertisement on Read Me](https://github.com/user-attachments/assets/8ca243fc-70ca-423c-b7e7-10ef48092d40)
 ![Premium settings](https://github.com/user-attachments/assets/9a4b913e-3421-429d-93f2-b4b9c9f59c28)
 ![Premium AI engines advertisement](https://github.com/user-attachments/assets/13b9853f-38e9-4d7a-af67-588b98f2379f)
-![Server Premium advertisement](https://github.com/user-attachments/assets/629d5ef4-a276-4a7c-a24a-f2924874f9a6)
+![Server Premium advertisement in Server Settings](https://github.com/user-attachments/assets/629d5ef4-a276-4a7c-a24a-f2924874f9a6)
 
 # How do I install this filter list?
 
