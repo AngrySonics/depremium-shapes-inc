@@ -1,2 +1,2 @@
-# depremium-shapes-inc
-uBlock Origin filters to minimize Shapes Inc Premium advertisements
+# Shapes, Inc De-Premiumizer
+On February 2, 2025, Shapes, Inc launched a preview of the Premium Tier. This means that the Read Me page of your shape and Server Settings for your shop now display an advertisement to get Premium because it's "better on premium and will like you for it. doitdoitdoitdoit", and that there is now a Premium button under the Shape section that you cannot get rid of. This is a uBlock Origin filter list designed to minimize these annoyances.
