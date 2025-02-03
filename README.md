@@ -23,4 +23,4 @@ The following annoyances that are currently blocked are below:
 https://github.com/AngrySonics/depremium-shapes-inc/raw/refs/heads/main/list.txt
 ```
 
-6. Apply changes, and you're all set! (uBlock Origin automatically updates it's filter lists everyday, but you can force an update if you REALLY want to!)
+6. Apply changes, and you're all set!
