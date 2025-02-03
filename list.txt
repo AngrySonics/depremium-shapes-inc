@@ -1,0 +1,12 @@
+! Title: Shapes, Inc De-Premiumizer
+! Description: It's a filter list designed to minimize annoyances caused by Shapes, Inc's Premium tier. That is literally it.
+! Homepage: https://github.com/AngrySonics/depremium-shapes-inc
+!
+! Issues: https://github.com/AngrySonics/depremium-shapes-inc/issues
+! PRs: https://github.com/AngrySonics/depremium-shapes-inc/pulls
+! Feel free to fork and submit pr's if you find more annoyances that AngrySonics hasn't blocked yet
+
+shapes.inc##ul:nth-of-type(3) > li:nth-of-type(1) > .sideNav_navLink__zg5il
+shapes.inc##.card_card__okhrm.page_premiumCard__wMlO_
+shapes.inc##.infoAlert_infoAlert__ANEIk
+shapes.inc##.card_card__okhrm.page_premiumCard___Jh5k
