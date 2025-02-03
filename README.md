@@ -3,7 +3,7 @@ On February 2, 2025, Shapes, Inc (from their manual: "Shapes, Inc. is an applied
 
 This means that the Read Me page of your shape and Server Settings for your shape now display an advertisement to get Premium because it's "better on premium and will like you for it. doitdoitdoitdoit", and that there is now a Premium button under the Shape section that you cannot get rid of.
 
-This is a uBlock Origin filter list designed to minimize these annoyances.
+This is a uBlock Origin filter list designed to minimize these annoyances (like how you can remove c.ai+ advertisements on Character.AI with a userscript/userstyle).
 
 # What "annoyances" are you talking about?
 The following annoyances that are currently blocked are below:
