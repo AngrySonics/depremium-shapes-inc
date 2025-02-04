@@ -1,3 +1,6 @@
+> [!NOTE]
+> Non-Premium things (eg. the "give this shape permissions if u want them to do this in channels" alerts in server settings) may be blocked if they share the same class with a Premium annoyance. This should not impact the site itself, but if this annoys you, submit a PR or wait for AngrySonics to fix it.
+
 # Shapes, Inc De-Premiumizer
 On February 2, 2025, Shapes, Inc (from their manual: "Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. They are just like typical Discord users -- Shapes can interact in threads, channels, DMs; send pics, see photos/hear voice messages; have custom profiles, statuses, bios and more. They're also super smart and can help you with homework + teach you how to code!") launched a preview of the Premium Tier after Shapes temporarily went down for bug fixes to be pushed ("Please wait for the official announcement."). The feature was officially announced a few hours later.
 
