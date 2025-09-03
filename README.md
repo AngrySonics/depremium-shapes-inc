@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Support has been discontinued. I no longer care about Shapes, Inc ([and you shouldn't either](https://www.youtube.com/watch?v=GN1Oaw3iEmQ)), and the site this list was designed for already redirects to the talk subdomain anyways.
+
 > [!NOTE]
 > Non-Premium things (eg. the "give this shape permissions if u want them to do this in channels" alerts in server settings) may be blocked if they share the same class with a Premium annoyance. This should not impact the site itself, but if this annoys you, submit a PR or wait for AngrySonics to fix it.
 
